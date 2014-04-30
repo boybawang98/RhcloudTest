@@ -1,0 +1,4 @@
+https://www.openshift.com/get-started#cli
+
+https://openshift.redhat.com/app/console/application/535f59235973ca7d2200022a-phptest/get_started?wizard=true
+
